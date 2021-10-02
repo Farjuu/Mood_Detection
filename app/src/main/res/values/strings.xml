@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mood_Detection</string>
+    <string name="camera">camera</string>
+    <string name="events">Events</string>
+    <string name="search">Search</string>
+    <string name="settings">settings</string>
+    <string name="logout">logout</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="no_camera_permission">no_camera_permission</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">permission_camera_rationale</string>
+    <string name="goooooo">GO</string>
+    <string name="farjanaakter431_gmail_com">useremail@gmail.com</string>
+    <string name="farjana_akter">User Name</string>
+    <string name="image">image</string>
+    <string name="hello">Hello</string>
+</resources>
